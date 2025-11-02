@@ -1,0 +1,4 @@
+export const common_variables={
+    attr_Title: 'title',
+    attr_for:'for', 
+  }

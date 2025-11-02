@@ -1,0 +1,21 @@
+{
+  "name": "ramaraom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4",
+    "@types/xlsx": "^0.0.35"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "papaparse": "^5.5.2",
+    "xlsx": "^0.18.5",
+    "yarn": "^1.22.22"
+  }
+}
